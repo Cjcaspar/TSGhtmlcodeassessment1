@@ -1,0 +1,43 @@
+/*
+Creator: Conner Caspar
+Date created: 2/1/2021
+Date last modified: 
+*/
+	
+header, footer {
+	background-color: #6495ED;
+	color: #fef9ff;
+	height: 150px;
+	text-align: center;
+	padding: 30px;
+}
+footer{
+	border-top:2px solid black;
+}
+nav{
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+	height: px;
+}
+
+
+nav a:hover{
+	font-weight: bold;
+}
+
+a {
+		
+		padding: 20px 20px 20px 20px;
+		background-color: #5b7d87;
+		color: #fef9ff;
+		padding: 8px;
+		border: thin solid #0d1f2d;
+		text-decoration: none;
+		text-align: center;
+
+}
+
+
+header {
+		font-family: 'Comic Sans MS', arial;
+}

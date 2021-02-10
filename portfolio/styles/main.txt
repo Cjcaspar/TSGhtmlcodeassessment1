@@ -1,0 +1,24 @@
+/*
+Creator: Conner Caspar
+Date created: 2/1/2021
+Date last modified: 
+*/
+	
+header, footer {
+	background-color: #6495ED;
+	color: #fef9ff;
+	height: 100px;
+	text-align: center;
+	padding: 30px 10px 20px 10px;
+}
+
+
+
+
+header.h1 {
+	@font-face {
+		font-family: "Open Sans";
+		src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
+		url("/fonts/OpenSans-Regular-webfont.woff") format("woff");
+	}
+}
